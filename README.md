@@ -1,4 +1,4 @@
-# Basic PHP MVC for practice
+# Basic PHP MVC for tennis tournaments management
 
 ![image](assets/home.PNG)
 
