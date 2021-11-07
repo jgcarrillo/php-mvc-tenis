@@ -1,5 +1,7 @@
 # Basic PHP MVC for practice
 
+![image](assets/home.PNG)
+
 ## Table of contents 👇
 
 - [✨ Explanation](#-explanation)
